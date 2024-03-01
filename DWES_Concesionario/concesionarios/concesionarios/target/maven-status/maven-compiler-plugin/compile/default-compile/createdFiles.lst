@@ -1,0 +1,13 @@
+com\miempresa\concesionarios\controladores\ConcesionarioController.class
+com\miempresa\concesionarios\excepciones\SolicitaPruebaException.class
+com\miempresa\concesionarios\entidades\Cliente.class
+com\miempresa\concesionarios\entidades\Vehiculo.class
+com\miempresa\concesionarios\repositorios\ConcesionarioRepository.class
+com\miempresa\concesionarios\repositorios\SolicitaPruebaRepository.class
+com\miempresa\concesionarios\entidades\Concesionario.class
+com\miempresa\concesionarios\entidades\SolicitaPrueba.class
+com\miempresa\concesionarios\repositorios\ClienteRepository.class
+com\miempresa\concesionarios\servicio\ClienteServicio.class
+com\miempresa\concesionarios\repositorios\VehiculoRepository.class
+com\miempresa\concesionarios\ConcesionariosAppApplication.class
+com\miempresa\concesionarios\excepciones\ClienteException.class
